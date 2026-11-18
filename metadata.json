@@ -1,0 +1,6 @@
+{
+  "name": "Clínica Bela Estética",
+  "description": "Website institucional demonstrativo da Clínica Bela Estética em Formiga, MG — Estética facial, design de sobrancelhas, cuidados com cílios, depilação e cuidados corporais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
